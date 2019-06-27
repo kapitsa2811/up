@@ -1,0 +1,12 @@
+SAS shootout:
+
+
+[SEX	CENSUS_REGION	AGE	MARITAL_STATUS	YEARS_EDUC	HIGHEST_DEGREE	SERVED_ARMED_FORCES	FOODSTAMPS_PURCHASE	TOTAL_INCOME	MORE_THAN_ONE_JOB	WEARS_EYEGLASSES	PERSON_BLIND	WEAR_HEARING_AID	IS_DEAF	PERSON_WEIGHT	TOTALEXP	AMOUNT_PAID_MEDICARE	AMOUNT_PAID_MEDICAID	NUMB_VISITS	DENTAL_CHECKUP	CHOLEST_LST_CHCK	LAST_CHECKUP	LAST_FLUSHOT	LOST_ALL_TEETH	LAST_PSA	LAST_PAP_SMEAR	LAST_BREAST_EXAM	LAST_MAMMOGRAM	BLD_STOOL_TST	SIGMOIDOSCOPY_COLONOSCOPY	WEAR_SEAT_BELT	HIGH_BLOOD_PRESSURE_DIAG	HEART_DISEASE_DIAG	ANGINA_DIAGNOSIS	HEART_ATTACK	OTHER_HEART_DISEASE	STROKE_DIAGNOSIS	EMPHYSEMA_DIAGNOSIS	JOINT_PAIN	CURRENTLY_SMOKE	ASTHMA_DIAGNOSIS	CHILD_BMI	ADULT_BMI	*** DIABETES_DIAG_BINARY ***]
+
+diabetic_data.csv
+[encounter_id	patient_nbr	race	gender	age	weight	admission_type_id	discharge_disposition_id	admission_source_id	time_in_hospital	payer_code	medical_specialty	num_lab_procedures	num_procedures	num_medications	number_outpatient	number_emergency	number_inpatient	diag_1	diag_2	diag_3	number_diagnoses	max_glu_serum	A1Cresult	metformin	repaglinide	nateglinide	chlorpropamide	glimepiride	acetohexamide	glipizide	glyburide	tolbutamide	pioglitazone	rosiglitazone	acarbose	miglitol	troglitazone	tolazamide	examide	citoglipton	insulin	glyburide-metformin	glipizide-metformin	glimepiride-pioglitazone	metformin-rosiglitazone	metformin-pioglitazone	change	readmitted	diabetesMed]
+
+130 us hospital data
+
+
+
